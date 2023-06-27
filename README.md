@@ -3,10 +3,11 @@
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,bootstrap,js,typescript,jquery,nextjs,nodejs,ruby,rails,python,flask,go,sqlite,postgresql,docker,heroku,githubactions,ableton)](https://skillicons.dev)
 
+## Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukisakakima)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://img.shields.io/badge/Qiita&nbsp;Posts-72-green.svg)
 ![](https://img.shields.io/badge/Qiita&nbsp;Contributions-110-green.svg)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukisakakima)](https://github.com/anuraghazra/github-readme-stats)
 
 ![github-user-contribution](https://github.com/yukisakakima/yukisakakima/assets/90080057/365c6f1f-d457-43cf-b768-2247b05c5f96)
 
