@@ -6,6 +6,8 @@
 ![](https://img.shields.io/badge/Qiita&nbsp;Posts-72-green.svg)
 ![](https://img.shields.io/badge/Qiita&nbsp;Contributions-110-green.svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukisakakima)](https://github.com/anuraghazra/github-readme-stats)
+
 ![github-user-contribution](https://github.com/yukisakakima/yukisakakima/assets/90080057/365c6f1f-d457-43cf-b768-2247b05c5f96)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=100&section=footer)
