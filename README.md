@@ -7,7 +7,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukisakakima)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://qiita-badge.apiapi.app/s/yukisakakima/posts.svg)
+](http://qiita.com/yukisakakima)
 ![](https://img.shields.io/badge/Qiita&nbsp;Posts-72-green.svg)
+[![](https://qiita-badge.apiapi.app/s/yukisakakima/contributions.svg)
+](http://qiita.com/yukisakakima)
 ![](https://img.shields.io/badge/Qiita&nbsp;Contributions-110-green.svg)
 
 ![github-user-contribution](https://github.com/yukisakakima/yukisakakima/assets/90080057/365c6f1f-d457-43cf-b768-2247b05c5f96)
