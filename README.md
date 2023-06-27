@@ -5,6 +5,7 @@
 
 ## Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukisakakima)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/Qiita&nbsp;Posts-72-green.svg)
 ![](https://img.shields.io/badge/Qiita&nbsp;Contributions-110-green.svg)
