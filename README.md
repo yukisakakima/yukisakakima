@@ -4,8 +4,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,bootstrap,js,typescript,jquery,nextjs,nodejs,ruby,rails,python,flask,go,sqlite,postgresql,docker,heroku,githubactions,ableton)](https://skillicons.dev)
 
 ## Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=THEME_NAME)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://qiita-badge.apiapi.app/s/yukisakakima/posts.svg)
 ](http://qiita.com/yukisakakima)
