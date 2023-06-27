@@ -2,3 +2,6 @@
 
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,bootstrap,js,jquery,nextjs,nodejs,ruby,rails,python,flask,go,sqlite,postgresql,docker,heroku,githubactions,ableton)](https://skillicons.dev)
+
+## Music Products
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72rT3PSywHS0iynMhFNUG7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
