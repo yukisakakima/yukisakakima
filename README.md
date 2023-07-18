@@ -15,5 +15,4 @@
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/yukisakakima/yukisakakima/main/img/github-user-contribution.svg) 
 
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=100&section=footer)
