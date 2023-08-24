@@ -13,6 +13,6 @@
 ](http://qiita.com/yukisakakima)
 <a href="https://honzaap.github.io/GithubCity/?name=yukisakakima&year=2023" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/honzaap/GithubCity/blob/main/favicon.svg" alt="githubcity" width="20" height="20"/></a>
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/yukisakakima/yukisakakima/master/img/snake.svg) 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/yukisakakima/yukisakakima/main/img/snake.svg) 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=100&section=footer)
