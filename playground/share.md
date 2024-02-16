@@ -1,13 +1,13 @@
 ## TypeScript
-[TypeScript](https://qiita.com/yukisakakima/private/ac995d4f9433f0bcca6f)
+[B:TypeScript](https://qiita.com/yukisakakima/private/ac995d4f9433f0bcca6f)
 ## React
-[React](https://qiita.com/yukisakakima/private/d045632ebc78c02bc645)
+[B:React](https://qiita.com/yukisakakima/private/d045632ebc78c02bc645)
 
 ## API
-[API](https://qiita.com/yukisakakima/private/15a5cf64f87ffa07b1a5)
+[B:API](https://qiita.com/yukisakakima/private/15a5cf64f87ffa07b1a5)
 
 ## 思想
-[Gitでこまめにコミット、まとめてプッシュ(方法とその利点) #Git - Qiita](https://qiita.com/yukisakakima/private/f87b49fd5318cac2e80e)
+[思想](https://qiita.com/yukisakakima/private/6c88ef8021efe6036377)
 
 ---
 
