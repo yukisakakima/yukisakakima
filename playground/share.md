@@ -6,6 +6,9 @@
 ## API
 [API](https://qiita.com/yukisakakima/private/15a5cf64f87ffa07b1a5)
 
+## 思想
+[Gitでこまめにコミット、まとめてプッシュ(方法とその利点) #Git - Qiita](https://qiita.com/yukisakakima/private/f87b49fd5318cac2e80e)
+
 ---
 
 ## Reference
