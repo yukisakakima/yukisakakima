@@ -1,4 +1,4 @@
-##　TypeScript
+## TypeScript
 [TypeScript](https://qiita.com/yukisakakima/private/ac995d4f9433f0bcca6f)
 ## React
 
