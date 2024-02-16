@@ -1,5 +1,6 @@
 ## TypeScript
 [B:TypeScript](https://qiita.com/yukisakakima/private/ac995d4f9433f0bcca6f)
+[TypeScript]()
 ## React
 [B:React](https://qiita.com/yukisakakima/private/d045632ebc78c02bc645)
 
