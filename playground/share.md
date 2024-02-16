@@ -1,8 +1,10 @@
 ## TypeScript
 [TypeScript](https://qiita.com/yukisakakima/private/ac995d4f9433f0bcca6f)
 ## React
+[React](https://qiita.com/yukisakakima/private/d045632ebc78c02bc645)
 
 ## API
+[API](https://qiita.com/yukisakakima/private/15a5cf64f87ffa07b1a5)
 
 ---
 
