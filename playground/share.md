@@ -4,13 +4,13 @@
 
 ## Reference
 ### Component
-- https://zenn.dev/kazukix/articles/create-similar-react-components
+- [チームで同じような React コンポーネントを書く](https://zenn.dev/kazukix/articles/create-similar-react-components)
 ### Redux
-- https://qiita.com/rh_/items/f3ad6037c13b4c9f33e1
+- [ReduxでuseSelectorとuseDispatchを短いコードで覚える | React チュートリアル #React - Qiita](https://qiita.com/rh_/items/f3ad6037c13b4c9f33e1)
 ### API
-- https://qiita.com/Skyryo/items/d5c714087a5d97a500f5
+- [【React】APIを実行する方法を整理してみた #React - Qiita](https://qiita.com/Skyryo/items/d5c714087a5d97a500f5)
 ### git-flow
-- https://www.atlassian.com/ja/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20%E3%81%A8%E3%81%AF%E3%80%81%E3%83%95%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%20%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81,%E8%A6%8F%E6%A8%A1%E3%81%AA%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82
+- [Gitflow ワークフロー | Atlassian Git Tutorial](https://www.atlassian.com/ja/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20%E3%81%A8%E3%81%AF%E3%80%81%E3%83%95%E3%82%A3%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%20%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81,%E8%A6%8F%E6%A8%A1%E3%81%AA%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82)
 
 ## その他
 [B:TypeScript](https://qiita.com/yukisakakima/private/ac995d4f9433f0bcca6f)
