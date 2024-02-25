@@ -7,10 +7,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://qiita-badge.apiapi.app/s/yukisakakima/posts.svg)
-](http://qiita.com/yukisakakima)
-[![](https://qiita-badge.apiapi.app/s/yukisakakima/contributions.svg)
-](http://qiita.com/yukisakakima)
+[![](https://qiita-badge.apiapi.app/s/kimascript/posts.svg)
+](http://qiita.com/kimascript)
+[![](https://qiita-badge.apiapi.app/s/kimascript/contributions.svg)
+](http://qiita.com/kimascript)
 <a href="https://honzaap.github.io/GithubCity/?name=yukisakakima&year=2023" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/honzaap/GithubCity/blob/main/favicon.svg" alt="githubcity" width="20" height="20"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=100&section=footer)
