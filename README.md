@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,markdown,html,css,js,typescript,react,styledcomponents,redux,ruby,rails,firebase,git,github,vscode)](https://skillicons.dev)
 
 ### 🔥Sub🔥
-[![My Skills](https://skillicons.dev/icons?i=vim,sass,gulp,bootstrap,tailwind,jquery,nodejs,python,flask,tensorflow,go,sqlite,postgresql,docker,heroku,netlify,svelte,githubactions,visualstudio,azure,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,sass,gulp,bootstrap,tailwind,jquery,nodejs,python,flask,tensorflow,go,sqlite,postgresql,docker,heroku,netlify,svelte,gitlab,githubactions,visualstudio,azure,figma,xd,ableton)](https://skillicons.dev)
 
 ## Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
