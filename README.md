@@ -2,7 +2,7 @@
 
 ## Languages and Tools:
 ### ✨Main✨
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,typescript,jquery,react,redux,ruby,rails,firebasegit,github,vscode,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,typescript,jquery,react,redux,ruby,rails,firebase,git,github,vscode,markdown)](https://skillicons.dev)
 
 ### 🔥Sub🔥
 [![My Skills](https://skillicons.dev/icons?i=vim,sass,gulp,bootstrap,tailwind,nodejs,python,flask,go,sqlite,postgresql,docker,heroku,netlify,svelte,githubactions,visualstudio,azure,ableton)](https://skillicons.dev)
