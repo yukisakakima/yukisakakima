@@ -8,12 +8,14 @@
 [![My Skills](https://skillicons.dev/icons?i=vim,sass,gulp,bootstrap,tailwind,jquery,nodejs,python,flask,tensorflow,go,sqlite,postgresql,docker,heroku,netlify,svelte,gitlab,githubactions,visualstudio,azure,figma,xd,ableton)](https://skillicons.dev)
 
 ## Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=synthwave" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=synthwave" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=synthwave" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=synthwave" />
+  </a>
+</div>
 
 [![](https://qiita-badge.apiapi.app/s/kimascript/posts.svg)
 ](http://qiita.com/kimascript)
