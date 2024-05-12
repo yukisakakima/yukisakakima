@@ -17,7 +17,6 @@
   </a>
 </div>
 
-##
 [![](https://qiita-badge.apiapi.app/s/kimascript/posts.svg)
 ](http://qiita.com/kimascript)
 [![](https://qiita-badge.apiapi.app/s/kimascript/contributions.svg)
