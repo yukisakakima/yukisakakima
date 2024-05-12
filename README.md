@@ -17,8 +17,8 @@
   </a>
 </div>
 
-<div display="inline-block">
-
+<div display="flex">
+  
 [![Qiita posts](https://qiita-badge.apiapi.app/s/kimascript/posts.svg)](http://qiita.com/kiimascript)  
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/kimascript/contributions.svg)](http://qiita.com/kimascript)
 
