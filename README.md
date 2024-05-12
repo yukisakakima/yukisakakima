@@ -18,13 +18,14 @@
 </div>
 
 <div display="flex">
-  
-[![Qiita posts](https://qiita-badge.apiapi.app/s/kimascript/posts.svg)](http://qiita.com/kiimascript)  
-[![Qiita contributions](https://qiita-badge.apiapi.app/s/kimascript/contributions.svg)](http://qiita.com/kimascript)
-
-<a href="https://honzaap.github.io/GithubCity/?name=yukisakakima&year=2023" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/honzaap/GithubCity/blob/main/favicon.svg" alt="githubcity" width="20" height="20"/></a>
-
-
+  <a href="http://qiita.com/kiimascript">
+    <img src="https://qiita-badge.apiapi.app/s/kimascript/posts.svg">
+  </a>
+  <a href="http://qiita.com/kimascript">
+    <img src="https://qiita-badge.apiapi.app/s/kimascript/contributions.svg">
+  </a>
+  <a href="https://honzaap.github.io/GithubCity/?name=yukisakakima&year=2023" role="link" target="_blank" rel="noopener noreferrer nofollow"><img src="https://github.com/honzaap/GithubCity/blob/main/favicon.svg" alt="githubcity" width="20" height="20"/>
+  </a>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=30:e96443,100:904e95&height=100&section=footer)
