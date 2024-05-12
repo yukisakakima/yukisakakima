@@ -8,11 +8,13 @@
 [![My Skills](https://skillicons.dev/icons?i=vim,linux,sass,gulp,bootstrap,tailwind,jquery,nodejs,ruby,rails,python,flask,pytorch,tensorflow,go,sqlite,postgresql,docker,heroku,netlify,svelte,gitlab,githubactions,visualstudio,azure,postman,figma,xd,ableton)](https://skillicons.dev)
 
 ## Stats:
-<div display="inline-block">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=synthwave)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=synthwave)
-
+<div display="flex">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=synthwave" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=synthwave" />
+  </a>
 </div>
 
 <div display="inline-block">
