@@ -2,10 +2,10 @@
 
 ## Languages and Tools:
 ### ✨
-[![My Skills](https://skillicons.dev/icons?i=markdown,html,css,js,ts,react,styledcomponents,redux,vite,ruby,rails,firebase,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=markdown,html,css,js,ts,react,styledcomponents,redux,vite,firebase,git,github,vscode)](https://skillicons.dev)
 
 ### 🔥
-[![My Skills](https://skillicons.dev/icons?i=vim,linux,sass,gulp,bootstrap,tailwind,jquery,nodejs,python,flask,pytorch,tensorflow,go,sqlite,postgresql,docker,heroku,netlify,svelte,gitlab,githubactions,visualstudio,azure,postman,figma,xd,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,linux,sass,gulp,bootstrap,tailwind,jquery,nodejs,ruby,rails,python,flask,pytorch,tensorflow,go,sqlite,postgresql,docker,heroku,netlify,svelte,gitlab,githubactions,visualstudio,azure,postman,figma,xd,ableton)](https://skillicons.dev)
 
 ## Stats:
 <div>
