@@ -8,14 +8,14 @@
 [![My Skills](https://skillicons.dev/icons?i=vim,linux,sass,gulp,bootstrap,tailwind,jquery,nodejs,ruby,rails,python,flask,pytorch,tensorflow,go,sqlite,postgresql,docker,heroku,netlify,svelte,gitlab,githubactions,visualstudio,azure,postman,figma,xd,ableton)](https://skillicons.dev)
 
 ## Stats:
-<div align="center">
+<div display="inline-block">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=synthwave)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=synthwave)
 
 </div>
 
-<div align="center">
+<div display="inline-block">
 
 [![Qiita posts](https://qiita-badge.apiapi.app/s/kimascript/posts.svg)](http://qiita.com/kiimascript)  
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/kimascript/contributions.svg)](http://qiita.com/kimascript)
