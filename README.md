@@ -16,7 +16,9 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=synthwave" />
   </a>
 </div>
+
 <br>
+
 [![](https://qiita-badge.apiapi.app/s/kimascript/posts.svg)
 ](http://qiita.com/kimascript)
 [![](https://qiita-badge.apiapi.app/s/kimascript/contributions.svg)
