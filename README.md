@@ -2,7 +2,7 @@
 
 ## Languages and Tools:
 ### ✨
-[![My Skills](https://skillicons.dev/icons?i=apple,markdown,html,css,js,ts,react,babel,styledcomponents,redux,vite,nodejs,git,github,gitlab,azure,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,markdown,html,css,js,ts,react,styledcomponents,redux,vite,nodejs,git,github,gitlab,azure,vscode)](https://skillicons.dev)
 
 ### 🔥
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,sass,gulp,bootstrap,materialui,firebase,jquery,ruby,rails,python,flask,pytorch,tensorflow,go,sqlite,postgresql,docker,heroku,githubactions,visualstudio,postman,figma,xd)](https://skillicons.dev)
