@@ -2,7 +2,7 @@
 
 ## Portfolio Repository
 - [Portfolio Site (January 2023 Development)](https://github.com/yukisakakima/yuki-sakakimas-portfolio) [Site URL](https://yuki-sakakimas-portfolio.herokuapp.com/)
-- [Quick Quill (February 2023 Development)](https://github.com/yukisakakima/quick-quill) [App URL](https://quick-quill.herokuapp.com/)
+- [Quick Quill (June 2023 Development)](https://github.com/yukisakakima/quick-quill) [App URL](https://quick-quill.herokuapp.com/)
 - [Knowledge Box Beta (Under Development in June 2024)](https://github.com/yukisakakima/knowledge-box-beta) [App URL](https://yukisakakima.github.io/knowledge-box-beta/)
 
 ## Technology Stack
