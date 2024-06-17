@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=apple,markdown,html,css,js,ts,react,emotion,styledcomponents,redux,vite,nodejs,postman,git,github,gitlab,azure,vscode,chrome)](https://skillicons.dev)
 
 ### 👁️
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,sass,gulp,bootstrap,materialui,supabase,firebase,jquery,ruby,rails,python,flask,pytorch,tensorflow,go,sqlite,postgresql,docker,heroku,githubactions,visualstudio,figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,sass,gulp,bootstrap,materialui,supabase,firebase,jquery,ruby,rails,python,flask,pytorch,tensorflow,go,php,sqlite,postgresql,docker,heroku,githubactions,visualstudio,figma,xd)](https://skillicons.dev)
 
 ## Stats
 <div display="flex">
