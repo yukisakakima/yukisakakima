@@ -6,7 +6,7 @@
 - [Knowledge Box Beta (In Progress since 2024.06)](https://github.com/yukisakakima/knowledge-box-beta) [Site URL](https://yukisakakima.github.io/knowledge-box-beta/)
 
 ## Technology Stack
-###　✨
+### ✨
 [![My Skills](https://skillicons.dev/icons?i=apple,markdown,html,css,js,ts,react,emotion,styledcomponents,redux,vite,nodejs,postman,git,github,gitlab,azure,vscode,chrome)](https://skillicons.dev)
 
 ### 💪💦
