@@ -15,10 +15,10 @@
 ## Stats
 <div display="flex">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" width="100%" src="https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=synthwave" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=yukisakakima&theme=synthwave" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=synthwave" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukisakakima&layout=compact&theme=synthwave" />
   </a>
 </div>
 
