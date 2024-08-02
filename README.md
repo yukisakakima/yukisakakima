@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<div display="flex">
+<div display="flex" width="100%">
   <a href="http://qiita.com/kimascript">
     <img src="https://qiita-badge.apiapi.app/s/kimascript/posts.svg">
   </a>
